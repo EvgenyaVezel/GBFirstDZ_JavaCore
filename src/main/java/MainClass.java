@@ -27,7 +27,7 @@ public class MainClass {
         System.out.println("Вычисление..");
 
         float resultArifmetic = arifmeticMethod(a,b,c,d);
-        System.out.println("Результат вычисления = " + resultArifmetic);
+        System.out.println("Результат вычисления = " + resultArifmetic); 
 
         //Метод, проверяющий диапазон суммы целых чисел
         System.out.println("Проверка диапазона суммы чисел от 10 до 20:");
